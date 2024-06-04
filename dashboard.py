@@ -5,7 +5,7 @@ import numpy as np
 
 pd.options.display.float_format = '{:.0f}'.format
 # Load your data
-@st.cache
+@st.cache_data
 def load_data():
     data = pd.read_csv('cleaned_data.csv', delimiter=';')
     data['price'] = pd.to_numeric(data['price'], errors='coerce')
@@ -17,7 +17,7 @@ def load_data():
 df = load_data()
 
 # Title of the dashboard
-st.title('Real Estate Dashboard')
+st.title('Otodom Warszawa Dashboard')
 
 # Show the first few rows of the DataFrame
 st.write("Data Overview:")

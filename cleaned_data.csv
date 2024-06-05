@@ -572,7 +572,7 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 574;649000;38.08;2;2;700;;;1956;do remontu;Mokotów;3
 575;1230000;103.3;5;3;1300;balkon;;1999;;Włochy;4
 576;599000;36.3;2;9;490;;;1974;;Mokotów;10
-577;4250000;420.0;więcej niż 10;;;;;;;Rembertów;
+577;4250000;420.0;11;;;;;;;Rembertów;
 578;799000;44.0;2;;;balkon, taras;garaż/miejsce parkingowe;2000;;Ursynów;
 579;1720000;93.1;3;1;;balkon;;1967;;Śródmieście;5
 580;1099000;65.2;3;6;970;balkon;;2010;;Ursus;6
@@ -973,7 +973,7 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 982;1794375;65.25;4;4;;balkon;garaż/miejsce parkingowe;2025;;Praga-Północ;8
 983;1468740;54.6;3;1;;balkon;garaż/miejsce parkingowe;2025;;Praga-Północ;8
 984;1430000;67.87;3;1;600;balkon;garaż/miejsce parkingowe;2019;do zamieszkania;Wola;7
-985;18000000;1892.03;więcej niż 10;0;;balkon;;2002;;Włochy;4
+985;18000000;1892.03;11;0;;balkon;;2002;;Włochy;4
 986;595000;28.76;1;2;531;;;1950;do remontu;Żoliborz;3
 987;1600000;73.13;3;1;1500000;balkon;;2017;do zamieszkania;Wilanów;4
 988;1062375;84.99;4;3;908;balkon;garaż/miejsce parkingowe;2020;do wykończenia;Wesoła;3
@@ -1355,7 +1355,6 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 1369;799000;36.6;2;10;600;balkon;garaż/miejsce parkingowe;1969;do zamieszkania;Mokotów;12
 1370;1190000;57.7;3;3;450;balkon;garaż/miejsce parkingowe;2021;do zamieszkania;Włochy;5
 1371;889000;50.0;2;1;700;balkon;;2008;;Ursynów;8
-1372;779000;93.1;4;;;taras;garaż/miejsce parkingowe;1996;;Zielonka;
 1373;629000;37.0;2;8;600;;garaż/miejsce parkingowe;;do zamieszkania;Bielany;10
 1374;820000;65.02;4;4;;balkon;garaż/miejsce parkingowe;1980;;Rembertów;4
 1375;758000;45.2;2;11;660;;garaż/miejsce parkingowe;1978;;Praga-Południe;15
@@ -1441,7 +1440,7 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 1456;1990000;147.3;5;4;2200;taras;garaż/miejsce parkingowe;1999;do zamieszkania;Wola;5
 1457;2900000;157.0;5;1;1450;balkon, taras;garaż/miejsce parkingowe;2006;do zamieszkania;Ursynów;2
 1458;1599000;85.46;4;1;1300;balkon;garaż/miejsce parkingowe;2012;do zamieszkania;Wilanów;4
-1459;8265000;285.0;więcej niż 10;7;;taras;garaż/miejsce parkingowe;2009;;Mokotów;7
+1459;8265000;285.0;11;7;;taras;garaż/miejsce parkingowe;2009;;Mokotów;7
 1460;4950000;296.5;5;2;;taras;garaż/miejsce parkingowe;2023;;Wilanów;2
 1461;1370000;65.41;3;2;700;balkon;garaż/miejsce parkingowe;2018;do zamieszkania;Mokotów;3
 1462;3800000;82.0;3;2;1000;balkon;garaż/miejsce parkingowe;2021;;Śródmieście;7
@@ -1711,7 +1710,6 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 1728;620000;44.5;2;7;700;balkon;garaż/miejsce parkingowe;2003;do remontu;Białołęka;7
 1729;715000;48.0;3;4;600;balkon;;1966;do remontu;Żoliborz;4
 1730;872000;49.1;2;4;670;;garaż/miejsce parkingowe;2018;do zamieszkania;Praga-Południe;17
-1731;742000;53.3;3;2;620;balkon;garaż/miejsce parkingowe;2007;do zamieszkania;Ząbki;4
 1732;855000;46.36;2;4;610;balkon;;1933;do remontu;Mokotów;4
 1733;760000;53.6;2;2;1025;balkon;garaż/miejsce parkingowe;1992;do remontu;Bielany;3
 1734;1600000;50.0;2;0;;;garaż/miejsce parkingowe;;do zamieszkania;Śródmieście;5
@@ -1955,7 +1953,7 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 1974;2222000;101.0;6;7;;;;;do zamieszkania;Mokotów;7
 1975;1900000;95.0;4;2;;balkon;garaż/miejsce parkingowe;;do zamieszkania;Mokotów;7
 1976;399000;21.0;1;2;400;;;2023;do zamieszkania;Włochy;2
-1977;1470180;64.2;więcej niż 10;11;1135;;;2010;;Wola;22
+1977;1470180;64.2;11;11;1135;;;2010;;Wola;22
 1978;829000;50.5;2;1;700;;;2012;do zamieszkania;Targówek;3
 1979;390000;17.0;1;1;390;;;1952;do zamieszkania;Mokotów;2
 1980;995000;50.12;3;4;850;balkon;;1976;do remontu;Śródmieście;4
@@ -2012,7 +2010,6 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 2032;1770000;81.0;3;10;1200;balkon;garaż/miejsce parkingowe;2013;do zamieszkania;Mokotów;11
 2033;800000;59.97;3;8;;balkon;;;do zamieszkania;Bielany;12
 2034;1699900;53.0;3;2;;balkon;garaż/miejsce parkingowe;1970;do zamieszkania;Śródmieście;4
-2035;1595000;103.42;4;4;1400;balkon, taras;garaż/miejsce parkingowe;2009;do zamieszkania;Stare Babice;4
 2036;510000;34.84;2;2;300;balkon;;2024;do wykończenia;Białołęka;2
 2037;1349000;79.82;3;4;;;garaż/miejsce parkingowe;1957;do zamieszkania;Mokotów;4
 2038;1175000;36.34;2;5;;;;1949;do zamieszkania;Śródmieście;6
@@ -2784,7 +2781,6 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 2808;549000;41.5;2;0;600;;;;do wykończenia;Targówek;4
 2809;643500;39.0;1;1;600;balkon;;1959;;Praga-Północ;4
 2810;956000;41.42;2;4;680;balkon;garaż/miejsce parkingowe;2019;do zamieszkania;Ursynów;6
-2811;800000;90.0;4;;;ogródek, taras;;;;Raszyn;
 2812;980000;51.75;3;5;1136;;;1969;do zamieszkania;Ochota;7
 2813;1129000;60.41;2;1;710;balkon;garaż/miejsce parkingowe;2019;do zamieszkania;Wola;13
 2814;1370000;55.03;2;1;800;balkon;garaż/miejsce parkingowe;2017;do zamieszkania;Żoliborz;6
@@ -3210,7 +3206,7 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 3239;729000;49.0;3;5;910;balkon;garaż/miejsce parkingowe;1975;do zamieszkania;Praga-Północ;10
 3240;693000;34.65;1;4;;balkon;;2021;do zamieszkania;Praga-Południe;7
 3241;650000;40.0;2;0;;balkon, taras;garaż/miejsce parkingowe;2026;do zamieszkania;Włochy;6
-3242;18600000;1893.06;więcej niż 10;4;14400;balkon, ogródek;garaż/miejsce parkingowe;1938;do zamieszkania;Mokotów;4
+3242;18600000;1893.06;11;4;14400;balkon, ogródek;garaż/miejsce parkingowe;1938;do zamieszkania;Mokotów;4
 3243;1875937;72.43;3;4;700;;garaż/miejsce parkingowe;2024;;Wola;8
 3244;2850000;123.0;5;10;2000;balkon, taras;garaż/miejsce parkingowe;1997;do zamieszkania;Wola;10
 3245;845000;46.16;2;0;360;;garaż/miejsce parkingowe;1944;do zamieszkania;Praga-Południe;2
@@ -3471,7 +3467,6 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 3502;;44.98;2;4;;balkon;garaż/miejsce parkingowe;;do wykończenia;Włochy;6
 3503;1099000;59.56;3;11;650;balkon;garaż/miejsce parkingowe;;do zamieszkania;Mokotów;15
 3504;790000;62.0;3;6;700;balkon;garaż/miejsce parkingowe;2025;do wykończenia;Ursus;6
-3505;688000;47.5;2;2;600;taras;garaż/miejsce parkingowe;2008;do zamieszkania;Ząbki;2
 3506;435000;20.0;1;;380;;;;do zamieszkania;Praga-Południe;
 3507;1020000;49.5;2;6;828;balkon;garaż/miejsce parkingowe;2021;do zamieszkania;Praga-Północ;6
 3508;849000;50.2;3;0;800;balkon, ogródek, taras;;1980;do zamieszkania;Bemowo;10
@@ -3559,7 +3554,6 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 3591;611000;55.0;3;2;350;balkon, ogródek, taras;garaż/miejsce parkingowe;2024;do wykończenia;Białołęka;2
 3592;693000;54.0;3;1;380;balkon, ogródek, taras;garaż/miejsce parkingowe;;do wykończenia;Białołęka;3
 3593;465000;35.0;2;2;250;balkon, ogródek, taras;garaż/miejsce parkingowe;2024;do wykończenia;Białołęka;2
-3594;960000;84.8;3;0;;ogródek;garaż/miejsce parkingowe;2005;do zamieszkania;Piaseczno;1
 3595;1220000;55.5;2;2;1000;;garaż/miejsce parkingowe;2017;do zamieszkania;Wilanów;4
 3596;3200000;118.0;4;2;;;;2005;;Mokotów;3
 3597;2700000;137.0;4;1;1600;;garaż/miejsce parkingowe;2008;do zamieszkania;Wilanów;4
@@ -3713,7 +3707,6 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 3746;1232000;76.26;4;1;;balkon;garaż/miejsce parkingowe;2026;do wykończenia;Bemowo;5
 3747;712000;49.0;2;2;600;balkon;;1970;do zamieszkania;Wola;4
 3748;873000;57.2;3;1;;balkon;garaż/miejsce parkingowe;2026;do wykończenia;Włochy;6
-3749;815000;97.59;5;1;;balkon;garaż/miejsce parkingowe;2025;do wykończenia;Piastów;2
 3750;759000;49.55;3;1;;balkon;garaż/miejsce parkingowe;2026;do wykończenia;Włochy;6
 3751;645000;40.4;2;;570;balkon;garaż/miejsce parkingowe;;do remontu;Praga-Północ;
 3752;749000;55.1;2;0;650;balkon;garaż/miejsce parkingowe;2011;do zamieszkania;Białołęka;4
@@ -3748,7 +3741,6 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 3781;281210;18.81;1;1;;;;2012;do zamieszkania;Ursynów;3
 3782;650000;49.0;2;1;500;balkon;;2023;;Białołęka;2
 3783;1163000;76.31;3;1;1370;balkon;;2005;do zamieszkania;Ursynów;5
-3784;704497;66.15;4;;;balkon, ogródek, taras;garaż/miejsce parkingowe;;;Marki;
 3785;788000;47.0;2;6;;balkon;garaż/miejsce parkingowe;1975;do zamieszkania;Mokotów;10
 3786;498355;37.33;2;;;balkon, ogródek, taras;garaż/miejsce parkingowe;;;Białołęka;
 3787;693000;53.83;3;;;balkon, ogródek, taras;garaż/miejsce parkingowe;;;Białołęka;
@@ -4406,7 +4398,6 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 4449;580000;31.33;1;3;452;balkon;garaż/miejsce parkingowe;2008;do zamieszkania;Bemowo;10
 4450;648000;48.0;3;4;;balkon;;1975;do zamieszkania;Ursus;4
 4451;677000;42.4;2;3;680;balkon;;1980;do zamieszkania;Ursynów;7
-4452;1375000;120.0;4;;560;taras, balkon, ogródek;garaż/miejsce parkingowe;2006;do wykończenia;Piaseczno;
 4453;499110;39.3;2;1;566;;garaż/miejsce parkingowe;1990;do zamieszkania;Białołęka;3
 4454;1399000;70.0;2;3;650;;;;;Mokotów;3
 4455;870000;29.0;1;2;590;;;1950;do zamieszkania;Śródmieście;3
@@ -5456,8 +5447,7 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 5513;1301000;55.22;3;5;;;;2025;;Wola;7
 5514;781000;30.09;1;5;;balkon;;2025;;Wola;7
 5515;619000;26.94;1;4;664;balkon;;1964;do zamieszkania;Śródmieście;4
-5516;1300000;50.0;2;1;800;ogródek;;60;do zamieszkania;Śródmieście;2
-5517;719000;49.15;2;0;400;ogródek;garaż/miejsce parkingowe;2024;do zamieszkania;Lesznowola;4
+5516;1300000;50.0;2;1;800;ogródek;;1960;do zamieszkania;Śródmieście;2
 5518;1249000;73.37;4;3;;balkon;garaż/miejsce parkingowe;2021;do zamieszkania;Białołęka;3
 5519;885000;66.2;3;1;897;balkon;;1990;do zamieszkania;Bemowo;3
 5520;1399000;68.2;3;6;700;balkon;garaż/miejsce parkingowe;2023;do zamieszkania;Bemowo;6
@@ -5510,7 +5500,6 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 5568;783000;36.5;1;3;540;balkon;;2016;do zamieszkania;Praga-Północ;5
 5569;670272;34.91;2;5;;balkon;;2024;do wykończenia;Bemowo;5
 5570;;41.85;2;2;;;garaż/miejsce parkingowe;;do wykończenia;Wilanów;4
-5571;810173;89.03;4;1;;balkon, ogródek;garaż/miejsce parkingowe;2024;do wykończenia;Ząbki;3
 5572;1060000;81.9;3;3;683;balkon;garaż/miejsce parkingowe;2011;do zamieszkania;Ursus;7
 5573;840000;56.0;3;;;balkon, taras;garaż/miejsce parkingowe;2023;do wykończenia;Białołęka;
 5574;900000;50.0;2;5;700;balkon;garaż/miejsce parkingowe;2010;do zamieszkania;Wola;5
@@ -5645,7 +5634,7 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 5705;964250;66.5;3;1;;balkon;garaż/miejsce parkingowe;2022;do wykończenia;Włochy;2
 5706;799000;50.2;2;1;770;;;1961;;Praga-Południe;3
 5707;1999999;110.57;4;0;;balkon, taras;garaż/miejsce parkingowe;2015;do zamieszkania;Wilanów;4
-5708;679000;28.0;więcej niż 10;11;500;;;1970;do zamieszkania;Śródmieście;
+5708;679000;28.0;11;11;500;;;1970;do zamieszkania;Śródmieście;
 5709;579000;38.78;2;5;880;balkon;;1963;do wykończenia;Bielany;8
 5710;1828000;100.42;4;6;;taras;garaż/miejsce parkingowe;2026;do wykończenia;Włochy;6
 5711;1856000;64.0;4;2;;;;1927;do zamieszkania;Śródmieście;4
@@ -5800,7 +5789,6 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 5862;1700000;76.7;3;2;1700;balkon;garaż/miejsce parkingowe;1999;do zamieszkania;Ochota;16
 5863;550000;21.0;1;0;495;;;1964;do zamieszkania;Wola;10
 5864;1190000;129.5;5;;;ogródek, taras;garaż/miejsce parkingowe;2024;do wykończenia;Białołęka;
-5865;792367;89.03;4;1;;balkon;garaż/miejsce parkingowe;2024;do wykończenia;Ząbki;3
 5867;899000;56.0;3;3;1000;balkon;;1984;do zamieszkania;Ursynów;11
 5868;1119750;44.79;2;0;678;;;1925;do wykończenia;Śródmieście;4
 5869;630000;37.6;2;8;;balkon;;1969;do wykończenia;Mokotów;8
@@ -6033,7 +6021,6 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 6104;756000;54.34;3;;;balkon;garaż/miejsce parkingowe;;;Targówek;
 6105;875500;51.5;3;;700;balkon;garaż/miejsce parkingowe;2023;do zamieszkania;Białołęka;
 6106;829000;29.92;1;2;680;;;2022;do zamieszkania;Praga-Północ;3
-6107;555000;46.1;2;5;;balkon;garaż/miejsce parkingowe;;do zamieszkania;Lesznowola;6
 6108;796000;54.9;3;7;800;balkon;;1970;;Bielany;10
 6109;725000;63.0;3;3;1000;balkon;;1980;do remontu;Praga-Południe;10
 6110;2014500;79.0;3;;;;;;do zamieszkania;Mokotów;
@@ -6539,7 +6526,6 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 6617;710976;42.32;2;1;;balkon;garaż/miejsce parkingowe;2025;do wykończenia;Praga-Północ;6
 6618;2390000;85.78;3;1;;balkon;garaż/miejsce parkingowe;2024;do wykończenia;Bielany;3
 6619;;57.32;2;0;;balkon;;2025;do wykończenia;Praga-Północ;7
-6620;792367;89.03;4;1;;balkon;garaż/miejsce parkingowe;2024;do wykończenia;Ząbki;3
 6621;1899000;65.78;3;1;;balkon;garaż/miejsce parkingowe;2024;do wykończenia;Bielany;2
 6622;;57.85;2;0;;ogródek;garaż/miejsce parkingowe;;do wykończenia;Ursynów;5
 6623;1000000;72.68;3;1;360;;garaż/miejsce parkingowe;2008;;Wawer;3
@@ -6781,7 +6767,6 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 6862;1400000;56.34;2;0;800;ogródek, taras;garaż/miejsce parkingowe;2022;do zamieszkania;Włochy;4
 6863;890000;43.73;2;3;700;balkon, taras;garaż/miejsce parkingowe;2022;do zamieszkania;Włochy;4
 6864;850000;57.0;3;10;1300;balkon;;;do zamieszkania;Włochy;10
-6865;1099000;85.95;3;1;840;balkon;garaż/miejsce parkingowe;2015;do zamieszkania;Michałowice;5
 6866;997100;59.0;3;7;700;balkon;garaż/miejsce parkingowe;2022;do zamieszkania;Ursus;7
 6867;525000;28.33;1;5;350;balkon;;2023;do wykończenia;Praga-Południe;5
 6868;1414098;81.27;4;3;;;garaż/miejsce parkingowe;;do wykończenia;Praga-Północ;5
@@ -7236,7 +7221,7 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 7339;5870000;309.0;8;9;2420;;garaż/miejsce parkingowe;2003;do zamieszkania;Mokotów;9
 7340;749000;33.8;2;1;;balkon;;1965;do zamieszkania;Śródmieście;8
 7341;2830000;150.0;4;3;2600;;garaż/miejsce parkingowe;1997;do zamieszkania;Wola;10
-7342;5490000;379.0;więcej niż 10;;;;;;do zamieszkania;Śródmieście;
+7342;5490000;379.0;11;;;;;;do zamieszkania;Śródmieście;
 7343;450000;32.08;2;8;600;;garaż/miejsce parkingowe;1980;do remontu;Ochota;8
 7344;2300000;85.0;3;0;;;garaż/miejsce parkingowe;2016;do zamieszkania;Mokotów;8
 7345;3492944;145.6;5;0;;ogródek;;2009;do zamieszkania;Ochota;9
@@ -8175,7 +8160,6 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 8310;755000;42.77;2;3;700;;;1954;do zamieszkania;Ochota;7
 8311;1200000;64.0;3;0;1000;;;1953;do zamieszkania;Praga-Północ;6
 8312;950000;48.22;2;4;;ogródek;;1951;do zamieszkania;Śródmieście;4
-8313;739000;47.61;2;;750;;garaż/miejsce parkingowe;2022;;Ząbki;
 8314;920000;56.0;3;0;;;;1975;;Praga-Południe;4
 8315;689000;38.0;2;1;;balkon;;1978;do zamieszkania;Wola;10
 8316;1259000;90.5;3;10;1300;;;;do zamieszkania;Bielany;20
@@ -8216,7 +8200,6 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 8352;755000;42.77;2;3;700;;;1954;do zamieszkania;Ochota;7
 8353;1200000;64.0;3;0;1000;;;1953;do zamieszkania;Praga-Północ;6
 8354;950000;48.22;2;4;;ogródek;;1951;do zamieszkania;Śródmieście;4
-8355;739000;47.61;2;;750;;garaż/miejsce parkingowe;2022;;Ząbki;
 8356;920000;56.0;3;0;;;;1975;;Praga-Południe;4
 8357;689000;38.0;2;1;;balkon;;1978;do zamieszkania;Wola;10
 8358;1259000;90.5;3;10;1300;;;;do zamieszkania;Bielany;20
@@ -8493,7 +8476,6 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 8639;550000;30.0;2;2;600;balkon;;1972;;Praga-Południe;10
 8640;699000;53.0;3;4;600;balkon;;1973;;Mokotów;4
 8641;699000;44.5;3;1;711;balkon;;1965;do remontu;Mokotów;4
-8642;1680000;121.42;4;0;;balkon, ogródek, taras;garaż/miejsce parkingowe;2018;do zamieszkania;Piaseczno;3
 8643;672220;55.1;3;1;;balkon;garaż/miejsce parkingowe;;do wykończenia;Rembertów;5
 8644;1105280;69.08;3;0;;ogródek;garaż/miejsce parkingowe;;do wykończenia;Praga-Północ;6
 8645;676236;62.04;4;0;;balkon;garaż/miejsce parkingowe;;do wykończenia;Białołęka;2
@@ -8721,7 +8703,6 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 8869;880000;61.46;3;3;550;;garaż/miejsce parkingowe;2024;do wykończenia;Ursus;3
 8870;676000;40.46;2;1;;balkon;garaż/miejsce parkingowe;2026;do wykończenia;Włochy;6
 8871;920000;106.0;5;1;;balkon;garaż/miejsce parkingowe;2020;do wykończenia;Wawer;2
-8872;590291;53.42;3;4;;balkon;garaż/miejsce parkingowe;2025;do wykończenia;Ząbki;5
 8873;528816;38.32;2;0;;ogródek;garaż/miejsce parkingowe;2023;;Rembertów;6
 8874;1439000;88.0;4;1;1200;balkon;;1905;;Śródmieście;5
 8875;;65.4;3;1;;balkon;garaż/miejsce parkingowe;2024;do wykończenia;Włochy;1
@@ -8744,7 +8725,6 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 8892;1749800;134.6;4;1;;balkon, taras;garaż/miejsce parkingowe;2001;do remontu;Bemowo;3
 8893;1190000;60.0;3;7;800;balkon;garaż/miejsce parkingowe;2023;;Ursus;7
 8894;627000;43.2;2;1;790;balkon;garaż/miejsce parkingowe;2003;do zamieszkania;Praga-Południe;6
-8895;490496;38.32;2;1;;balkon;garaż/miejsce parkingowe;2025;do wykończenia;Ząbki;5
 8896;1055424;44.16;1;0;;balkon;garaż/miejsce parkingowe;2025;;Praga-Północ;8
 8897;1566387;58.23;3;5;;;garaż/miejsce parkingowe;2025;;Praga-Północ;8
 8898;;55.91;3;3;;;garaż/miejsce parkingowe;;do wykończenia;Białołęka;3
@@ -8881,7 +8861,6 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 9034;946570;42.0;2;0;680;;garaż/miejsce parkingowe;1930;do zamieszkania;Żoliborz;3
 9035;999000;47.0;2;3;;;;;do zamieszkania;Ochota;6
 9036;600000;28.0;2;1;450;;garaż/miejsce parkingowe;1977;do zamieszkania;Wola;15
-9037;950000;80.0;4;2;;balkon;garaż/miejsce parkingowe;2008;do zamieszkania;Ząbki;2
 9038;1015000;78.3;4;3;;;garaż/miejsce parkingowe;1956;do remontu;Włochy;3
 9039;899999;66.0;3;7;850;balkon;;1990;do zamieszkania;Białołęka;8
 9040;630000;27.0;1;2;400;balkon;garaż/miejsce parkingowe;2004;do zamieszkania;Ursynów;6
@@ -8944,7 +8923,6 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 9105;1140000;38.0;1;0;440;ogródek, taras;garaż/miejsce parkingowe;2022;do zamieszkania;Wola;10
 9106;608013;32.17;1;0;;balkon, ogródek, taras;garaż/miejsce parkingowe;2026;do wykończenia;Bemowo;3
 9107;1700000;78.0;4;3;950;balkon, taras;garaż/miejsce parkingowe;2016;do zamieszkania;Praga-Południe;3
-9108;530000;29.47;1;1;500;balkon;;2022;do zamieszkania;Stare Babice;4
 9109;540000;29.5;2;0;700;;;1970;do wykończenia;Ursynów;10
 9110;1050000;55.3;3;5;;balkon;garaż/miejsce parkingowe;2014;do zamieszkania;Targówek;8
 9111;669000;61.0;2;1;600;;;2000;;Włochy;5
@@ -8968,10 +8946,6 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 9129;760000;49.8;2;0;990;balkon;;1962;;Mokotów;4
 9130;3150000;150.9;4;4;2420;balkon;;1998;do zamieszkania;Śródmieście;10
 9131;1090000;69.0;3;3;1200;balkon;garaż/miejsce parkingowe;2001;;Ochota;3
-9132;424000;37.69;2;0;;;garaż/miejsce parkingowe;2024;do wykończenia;Jabłonna;4
-9133;749000;66.4;3;3;;balkon;garaż/miejsce parkingowe;2024;do wykończenia;Jabłonna;4
-9134;899000;79.56;4;4;;taras, balkon;garaż/miejsce parkingowe;2024;do wykończenia;Jabłonna;4
-9135;859000;72.0;4;4;;taras;garaż/miejsce parkingowe;2024;do wykończenia;Jabłonna;4
 9136;2900000;115.0;4;1;1200;;;1934;do zamieszkania;Śródmieście;7
 9137;479000;26.0;1;5;342;;;1975;do zamieszkania;Bielany;11
 9138;669000;51.0;2;2;600;balkon;;;;Białołęka;8
@@ -9078,8 +9052,6 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 9242;660000;36.0;2;1;600;balkon;;1968;do wykończenia;Bielany;3
 9243;1420000;70.51;3;3;;balkon;;2022;do zamieszkania;Bielany;5
 9244;1650000;76.36;3;7;900;;;1910;do zamieszkania;Śródmieście;7
-9245;645000;58.43;3;0;;;garaż/miejsce parkingowe;2024;do wykończenia;Jabłonna;4
-9246;485000;44.23;2;1;;;garaż/miejsce parkingowe;2024;do wykończenia;Jabłonna;4
 9247;639000;36.0;2;3;784;balkon;;1975;;Wilanów;5
 9248;619000;32.0;1;6;;balkon;garaż/miejsce parkingowe;2023;do wykończenia;Bemowo;6
 9249;1099000;52.5;3;2;500;balkon;garaż/miejsce parkingowe;2023;do zamieszkania;Bemowo;6
@@ -9405,7 +9377,6 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 9576;460000;27.1;1;3;520;;garaż/miejsce parkingowe;1970;do remontu;Mokotów;10
 9577;1352500;80.03;4;2;1100;;;1975;;Mokotów;10
 9578;605000;37.92;2;1;500;balkon;;2021;do zamieszkania;Ursus;7
-9579;1099000;86.0;3;1;840;balkon;garaż/miejsce parkingowe;2015;do zamieszkania;Michałowice;5
 9580;930000;59.58;4;2;893;balkon;garaż/miejsce parkingowe;2021;do zamieszkania;Ursus;2
 9581;905000;57.7;3;3;;balkon;;1970;do zamieszkania;Wola;4
 9582;549000;37.1;2;10;500;;garaż/miejsce parkingowe;1970;do remontu;Wola;10
@@ -9434,7 +9405,6 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 9605;932925;53.31;3;6;645;balkon;garaż/miejsce parkingowe;1970;do remontu;Mokotów;10
 9607;1859375;106.38;4;3;;balkon;garaż/miejsce parkingowe;2022;do wykończenia;Mokotów;3
 9608;790000;57.3;3;2;650;;;1983;do wykończenia;Praga-Południe;12
-9609;614999;35.02;2;4;800;balkon;garaż/miejsce parkingowe;2020;do zamieszkania;Ząbki;5
 9610;920000;58.0;3;10;350;;;1980;do zamieszkania;Mokotów;17
 9611;965000;59.0;3;1;;;;1951;do remontu;Wola;6
 9612;1440000;111.0;4;2;;ogródek, taras;;2020;do zamieszkania;Wawer;2
@@ -9587,7 +9557,6 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 9763;587664;52.47;3;;;;;;;Białołęka;
 9764;1077255;58.5;3;7;650;balkon;;1979;do zamieszkania;Mokotów;15
 9765;795000;49.0;3;2;820;balkon;;1969;do zamieszkania;Ochota;4
-9766;1020000;131.0;5;3;;taras;garaż/miejsce parkingowe;2006;do zamieszkania;Ząbki;4
 9767;857000;68.59;4;1;;balkon;garaż/miejsce parkingowe;2025;do wykończenia;Białołęka;4
 9768;882000;70.66;4;3;;balkon;garaż/miejsce parkingowe;2025;do wykończenia;Białołęka;4
 9769;857000;68.59;4;1;;balkon;garaż/miejsce parkingowe;2025;do wykończenia;Białołęka;4
@@ -9751,7 +9720,6 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 9929;764583;59.27;3;2;;taras;;2023;do wykończenia;Białołęka;3
 9930;6378017;247.69;5;11;;;;;;Wola;11
 9931;1299000;86.7;3;5;;;garaż/miejsce parkingowe;2001;do zamieszkania;Mokotów;10
-9932;599000;44.5;2;5;;balkon;;2001;do zamieszkania;Piastów;7
 9933;557700;37.18;2;1;700;;garaż/miejsce parkingowe;1957;do wykończenia;Mokotów;2
 9934;965000;46.55;2;2;573;;garaż/miejsce parkingowe;2006;do zamieszkania;Ursynów;5
 9935;950000;54.3;3;8;1100;;;1984;do zamieszkania;Wola;10
@@ -10053,6 +10021,7 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 10236;1100000;68.0;3;1;1300;balkon;garaż/miejsce parkingowe;2000;;Praga-Południe;3
 10237;;38.16;2;6;;;garaż/miejsce parkingowe;;do wykończenia;Ursus;6
 10238;668800;66.0;4;;;;;;;Białołęka;
+10239;2376000;72.0;3;2;900;balkon;;192;do zamieszkania;Śródmieście;4
 10240;1300000;50.45;2;4;770;balkon;;2016;;Mokotów;4
 10241;1132000;62.56;3;1;700;;;2006;do zamieszkania;Ursynów;5
 10242;999000;67.79;4;1;700;balkon;;1960;do remontu;Wola;3
@@ -10169,7 +10138,7 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 10356;948000;40.16;2;3;715;;garaż/miejsce parkingowe;2017;do zamieszkania;Mokotów;7
 10357;890000;68.0;3;3;900;balkon;;1979;do zamieszkania;Bemowo;3
 10358;895000;50.0;2;3;;balkon;garaż/miejsce parkingowe;2008;do zamieszkania;Wola;8
-10359;1699000;53.3;3;2;;;;170;do zamieszkania;Śródmieście;4
+10359;1699000;53.3;3;2;;;;1970;do zamieszkania;Śródmieście;4
 10360;1170000;72.9;3;3;;balkon;;1979;do zamieszkania;Ursynów;4
 10361;768000;48.0;3;3;800;balkon;;;;Ochota;10
 10362;2400000;103.0;4;2;1600;balkon, ogródek;garaż/miejsce parkingowe;1955;do wykończenia;Praga-Południe;2
@@ -10370,7 +10339,6 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 10563;;44.14;1;4;;balkon;garaż/miejsce parkingowe;;do wykończenia;Wola;9
 10564;1490000;86.7;4;1;1050;balkon;;;;Wilanów;3
 10565;995000;63.38;3;0;650;;;1952;do zamieszkania;Wola;4
-10566;1490000;180.0;6;0;;;;2023;do zamieszkania;Łomianki;2
 10567;899000;53.0;2;3;;balkon;;1991;do zamieszkania;Ursynów;10
 10568;1184000;84.3;2;3;;balkon, taras;garaż/miejsce parkingowe;2025;do wykończenia;Białołęka;3
 10569;882000;70.66;4;3;;balkon;garaż/miejsce parkingowe;2025;do wykończenia;Białołęka;3
@@ -10568,6 +10536,7 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 10763;780000;35.0;1;;;;;2008;do zamieszkania;Ursynów;
 10764;1600000;94.5;3;1;1100;;garaż/miejsce parkingowe;1996;do zamieszkania;Wilanów;5
 10765;1310000;124.5;4;1;;balkon, ogródek;garaż/miejsce parkingowe;2017;;Wawer;2
+10766;2376000;72.0;3;2;900;balkon;;192;do zamieszkania;Śródmieście;4
 10767;720000;40.81;2;1;200;balkon;;2024;do wykończenia;Praga-Północ;7
 10768;754000;44.4;2;6;600;;garaż/miejsce parkingowe;2011;do zamieszkania;Ursus;7
 10769;;49.0;3;8;;balkon;garaż/miejsce parkingowe;;do wykończenia;Białołęka;8
@@ -11023,7 +10992,7 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 11244;;68.48;3;3;;;garaż/miejsce parkingowe;;do wykończenia;Ursus;11
 11245;480000;28.3;1;2;;balkon;;1970;do remontu;Ochota;10
 11246;704497;66.15;4;0;;;;;do wykończenia;Białołęka;2
-11247;6400000;600.0;więcej niż 10;0;;;garaż/miejsce parkingowe;1938;do remontu;Włochy;3
+11247;6400000;600.0;11;0;;;garaż/miejsce parkingowe;1938;do remontu;Włochy;3
 11248;;49.01;2;1;;;garaż/miejsce parkingowe;;do wykończenia;Włochy;10
 11249;815000;90.26;5;1;;balkon, ogródek, taras;garaż/miejsce parkingowe;2025;do wykończenia;Włochy;2
 11250;;61.6;3;0;;ogródek;garaż/miejsce parkingowe;;do wykończenia;Bemowo;5
@@ -11293,7 +11262,7 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 11522;1800000;59.4;3;0;;ogródek;garaż/miejsce parkingowe;1932;;Wawer;1
 11523;4130310;111.63;3;4;1600;balkon;;1960;do zamieszkania;Śródmieście;5
 11524;640000;28.0;1;6;;balkon;;;do zamieszkania;Praga-Południe;10
-11525;2390000;235.0;więcej niż 10;;;balkon, ogródek, taras;garaż/miejsce parkingowe;2019;do zamieszkania;Rembertów;
+11525;2390000;235.0;11;;;balkon, ogródek, taras;garaż/miejsce parkingowe;2019;do zamieszkania;Rembertów;
 11526;685000;45.0;2;1;750;balkon;garaż/miejsce parkingowe;2023;do zamieszkania;Białołęka;5
 11527;893464;39.58;2;4;;balkon;garaż/miejsce parkingowe;;do wykończenia;Mokotów;9
 11528;465000;35.0;2;1;180;balkon, ogródek, taras;garaż/miejsce parkingowe;;;Białołęka;2
@@ -12291,6 +12260,7 @@ id;price;area;rooms;floor;rent;outdoor;parking;build_year;status;district;max_fl
 12537;1859375;106.38;4;3;900;;;2023;do wykończenia;Mokotów;3
 12538;669000;38.0;2;6;440;balkon;garaż/miejsce parkingowe;1965;do zamieszkania;Żoliborz;7
 12539;1754756;72.73;3;1;;taras;garaż/miejsce parkingowe;2024;do wykończenia;Ochota;4
+12540;2376000;72.0;3;2;900;balkon;;192;do zamieszkania;Śródmieście;4
 12541;572000;26.73;1;1;;balkon;garaż/miejsce parkingowe;;do wykończenia;Bielany;8
 12542;;98.85;4;3;;taras, balkon;garaż/miejsce parkingowe;;do wykończenia;Białołęka;3
 12543;2500000;120.0;4;3;;;;1952;;Śródmieście;3

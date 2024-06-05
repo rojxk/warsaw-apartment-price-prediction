@@ -23,7 +23,7 @@ st.dataframe(df.head())
 
 # Sidebar filters
 district = st.sidebar.selectbox('Select District:', df['district'].unique())
-price_filter = st.sidebar.slider('Filter by price per area (max value)', 0, int(df['price_per_area'].max()), int(df['price_per_area'].max()))
+price_filter = st.sidebar.slider('Filter by price per area (max value)', 0, int(100000), int(100000))
 
 # Apply filters
 filtered_data = df[(df['district'] == district) & (df['price_per_area'] <= price_filter)]
@@ -58,4 +58,5 @@ elif option == 'Price per Area Distribution':
     ax.set_xlabel('Price per Area Unit (per m²)')
     ax.set_ylabel('Frequency')
     st.pyplot(fig)
+
 

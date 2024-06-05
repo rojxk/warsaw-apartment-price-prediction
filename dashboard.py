@@ -1,10 +1,8 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
-import numpy as np
 
-pd.options.display.float_format = '{:.0f}'.format
-# Load your data
+# Load data
 @st.cache_data
 def load_data():
     data = pd.read_csv('cleaned_data.csv', delimiter=';')
@@ -61,5 +59,3 @@ elif option == 'Price per Area Distribution':
     ax.set_ylabel('Frequency')
     st.pyplot(fig)
 
-
-# Optional: Add more visualizations and filters based on other columns like status, rooms, etc.

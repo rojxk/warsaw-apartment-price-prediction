@@ -43,5 +43,5 @@ git clone https://github.com/rojxk/warsaw-apartment-price-prediction.git
 ```
 streamlit run dashboard.py
 ```
-3. **Access dashoboard**
+3. **Access dashboard**
 Open web browser and navigate to:  http://localhost:8501

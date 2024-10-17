@@ -13,6 +13,10 @@ This project was developed as part of the "Programming for Data Analysis" course
 - Python 3.7+
 - Required libraries: pandas, numpy, scikit-learn, xgboost, matplotlib, streamlit, beautifulsoup4, requests
 
+To install the required libraries, run:
+```
+pip install -r requirements.txt
+```
 ## Model
 
 The project uses XGBoost Regressor for predicting apartment prices. The model takes into account various features such as apartment size, number of rooms, location, and other amenities.
